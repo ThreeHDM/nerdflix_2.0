@@ -42,4 +42,14 @@ body {
 
 .card-body {
     color: black;
+    background-color: silver;
+}
+
+.card-img-overlay {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.2))
+}
+
+.movie-link {
+    position: absolute;
+    bottom: 15px;
 }
